@@ -1,0 +1,9 @@
+{
+  "name": "phish-or-legit",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Real-time multiplayer Phish or Legit game",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=20" }
+}
